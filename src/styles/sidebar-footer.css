@@ -140,6 +140,7 @@ body{
 
 .sidebar .cookies{
   margin:25px 20px;
+  display: contents;
 }
 
 .sidebar .cookies a{
