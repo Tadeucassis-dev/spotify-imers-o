@@ -68,7 +68,7 @@
   background: transparent;
   border: none;
   padding: 0px 100px 0 12px;
-  color: #fff;
+  color: #ffffff;
   text-overflow: ellipsis;
   overflow:hidden;
   white-space: nowrap;
@@ -120,9 +120,9 @@ font-weight: 700;
 
 /* SCROLL */
 .offer__scroll-container {
-max-height: 43vh;
+max-height: 47vh;
 margin: 24px;
-overflow-y: auto;
+overflow: auto;
 }
 
 .offer__scroll-container::-webkit-scrollbar {
@@ -130,7 +130,7 @@ width: 1px;
 }
 
 .offer__scroll-container::-webkit-scrollbar-thumb {
-background-color: transparent;
+background-color: #a7a7a7;
 }
 /* FIM SCROLL */
 

@@ -1,5 +1,5 @@
 body{
-  background-color: #000;
+  background-color: #080808;
   font-family: var(--font-dm-sans);
 }
 
@@ -10,6 +10,10 @@ body{
   bottom:0;
   padding:12px;
   width:300px;
+}
+
+.fa-home{
+color: #c3c3c3;
 }
 
 .sidebar__navigation{
@@ -141,6 +145,7 @@ body{
 .sidebar .cookies{
   margin:25px 20px;
   display: contents;
+  
 }
 
 .sidebar .cookies a{
@@ -148,6 +153,7 @@ body{
   font-weight: 500;
   font-size:10px;
   text-decoration: none;
+  margin-top: 8px;
 }
 
 .sidebar .cookies a:hover{
