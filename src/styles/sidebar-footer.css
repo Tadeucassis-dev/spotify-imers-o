@@ -1,5 +1,5 @@
 body{
-  background-color: #080808;
+  background-color: #c2d692;
   font-family: var(--font-dm-sans);
 }
 
@@ -17,14 +17,12 @@ color: #c3c3c3;
 }
 
 .sidebar__navigation{
-  background-color: #121212;
-  border-radius:8px;
+  background: linear-gradient(to right, #ae2896, #509bf5);  border-radius:8px;
   padding:16px 0 0 16px;
 }
 
 .logo{
-  background: #121212;
-  display:flex;
+  background: linear-gradient(to right, #ae2896, #509bf5);  display:flex;
   border-radius:8px ;
   padding:16px 0 0 16px;
 }
@@ -50,8 +48,7 @@ color: #c3c3c3;
 }
 
 .library{
-  background-color:#121212;
-  border-radius:8px;
+  background: linear-gradient(to right, #ae2896, #509bf5);  border-radius:8px;
   display:flex;
   justify-content: space-between;
   flex-direction: column;
@@ -98,8 +95,7 @@ color: #c3c3c3;
   align-items: flex-start;
   justify-content: space-between;
   gap:20px;
-  background-color: #242424;
-  color:#b3b3b3;
+  background: linear-gradient(to right, #ae2896, #509bf5);  color:#b3b3b3;
   font-weight: 600;
   font-size: 14px;
   margin: 8px 0;
@@ -130,8 +126,7 @@ color: #c3c3c3;
   display: flex;
   justify-content: center;
   background-color: #FFF;
-  color:#000;
-  border-radius: 20px;
+  background: linear-gradient(to right, #ae2896, #509bf5);  border-radius: 20px;
   font-size: 12px;
   font-weight: 700;
   text-decoration:none;
@@ -202,8 +197,7 @@ color: #c3c3c3;
 
 .disclaimer-premium button {
   background-color: #ffffff;
-  color: #000000;
-  font-size: 16px;
+  background: linear-gradient(to right, #ae2896, #509bf5);  font-size: 16px;
   font-weight: bold;
   padding: 14px 30px;
   border: 0px;

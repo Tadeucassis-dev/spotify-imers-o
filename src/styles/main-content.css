@@ -14,8 +14,7 @@
   padding: 16px;
   margin: 10px;
   border-radius: 8px;
-  background-color: #121212;
-  padding: 12px;
+background: linear-gradient(to right, #ae2896, #509bf5);  padding: 12px;
 }
 
 .header__navigation .navigation {
@@ -45,6 +44,9 @@
 .header__login {
   display: flex;
   align-items: center;
+  color: #242424;
+  background: linear-gradient(to right, #ae2896, #509bf5);  font-size: 16px;
+  border-radius: 500px;
 }
 
 .header__search {
@@ -76,7 +78,7 @@
 }
 
 .header__login .subscribe {
-  color: #a7a7a7;
+  
   font-size: 16px;
   font-weight: 700;
   background-color: transparent;
@@ -86,8 +88,7 @@
 .header__login .login {
   width: 100px;
   height: 48px;
-  color: #000;
-  font-size: 16px;
+  background: linear-gradient(to right, #ae2896, #509bf5);  font-size: 16px;
   font-weight: 700;
   border-radius: 40px;
 }
@@ -98,8 +99,7 @@ height: 68vh;
 padding-top: 16px;
 margin: 10px;
 border-radius: 10px;
-background-color: #121212;
-}
+background: linear-gradient(to right, #ae2896, #509bf5);}
 
 .playlist {
 margin: 24px;
@@ -242,8 +242,7 @@ min-width: 767px;
 }
 
 .artist-card {
-background: #181818;
-border-radius: 8px;
+  background: linear-gradient(to right, #ae2896, #509bf5);border-radius: 8px;
 -ms-flex: 1;
 flex: 1;
 isolation: isolate;
@@ -254,8 +253,7 @@ width: 100%;
 }
 
 .artist-card:hover {
-background-color: #252525;
-}
+background: linear-gradient(to right, #ae2896, #509bf5);}
 
 .card-img {
 padding-bottom: 100%;
